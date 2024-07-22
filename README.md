@@ -69,7 +69,7 @@ sudo apt-get install nmap gobuster
 ## Step 4: Run Streamlit App
 ```
 streamlit run __main__.py
-	Or run in background
+#Or run in background
 nohup streamlit run _main_.py &
 ```
 
