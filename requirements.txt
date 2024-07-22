@@ -1,0 +1,12 @@
+boto3==1.34.117
+botocore==1.34.117
+cryptography==41.0.7
+google-generativeai==0.6.0
+pandas==2.2.2
+paramiko==2.12.0
+streamlit==1.36.0
+streamlit-option-menu==0.3.13
+st-pages==0.4.5
+transformers==4.41.2
+torch==2.3.1
+python-nmap==0.7.1
