@@ -1,5 +1,7 @@
 # AWS Chatbot
 
+![3  Main Chatbot with Side Bar](https://github.com/user-attachments/assets/fb0261b5-bc70-4a55-882e-bdf860ec71fd)
+
 ## Welcome to our AWS Chatbot Application!
 
 ### Problem Summary
@@ -18,8 +20,6 @@ Our mission is to provide a seamless and efficient way for users to manage their
 
 ## Features
 1. **Chatbot using Gemini API**
-![3  Main Chatbot with Side Bar](https://github.com/user-attachments/assets/fb0261b5-bc70-4a55-882e-bdf860ec71fd)
-
 2. **Dynamic task execution on AWS**
 3. **Tool Installation on Ec2 using Chatbot**
 4. **Overall AWS account audit and report generation**
