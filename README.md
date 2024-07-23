@@ -18,14 +18,16 @@ Our mission is to provide a seamless and efficient way for users to manage their
 
 ## Features
 1. **Chatbot using Gemini API**
+![3  Main Chatbot with Side Bar](https://github.com/user-attachments/assets/fb0261b5-bc70-4a55-882e-bdf860ec71fd)
+
 2. **Dynamic task execution on AWS**
-3. **Overall AWS account audit and report generation**
-4. **Vulnerability analysis**
-5. **Dynamic installation of tools on EC2**
-6. **Internal audit report generation**
-7. **Text Classification**
-8. **Basic Pentest**
-9. **Cost Optimization**
+4. **Overall AWS account audit and report generation**
+5. **Vulnerability analysis**
+6. **Dynamic installation of tools on EC2**
+7. **Internal audit report generation**
+8. **Text Classification**
+9. **Basic Pentest**
+10. **Cost Optimization**
 
 ## Technology Used
 1. **Text Classification**: [Facebook/bart-large-mnli](https://huggingface.co/facebook/bart-large-mnli)
