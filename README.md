@@ -21,6 +21,7 @@ Our mission is to provide a seamless and efficient way for users to manage their
 ![3  Main Chatbot with Side Bar](https://github.com/user-attachments/assets/fb0261b5-bc70-4a55-882e-bdf860ec71fd)
 
 2. **Dynamic task execution on AWS**
+3. **Tool Installation on Ec2 using Chatbot**
 4. **Overall AWS account audit and report generation**
 5. **Vulnerability analysis**
 6. **Dynamic installation of tools on EC2**
